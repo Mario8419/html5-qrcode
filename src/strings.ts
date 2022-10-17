@@ -91,11 +91,11 @@ export class Html5QrcodeScannerStrings {
     }
 
     public static scanButtonStopScanningText(): string {
-        return "Stop Scanning";
+        return "Stop";
     }
 
     public static scanButtonStartScanningText(): string {
-        return "Start Scanning";
+        return "Start";
     }
 
     public static scanButtonScanningStarting(): string {
